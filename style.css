@@ -1,0 +1,45 @@
+.site-navigation ul.menu-list > li.menu-item-has-children > a:after {
+  content: "" !important;
+}
+.header-bottom-area.four .menu-list > li > a {
+  padding: 21px 16px !important;
+}
+.flickity-button {
+  background: linear-gradient(to right, #21b75f 0%, #31386e 100%) !important;
+  width: 50px !important;
+  height: 59px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: aliceblue !important;
+  transition: 500ms;
+}
+.flickity-button:hover {
+  background: linear-gradient(to right, #15753d 0%, #171a33 100%) !important;
+  transition: 200ms;
+}
+.fw-main-row {
+  position: relative;
+}
+.titleForRent {
+  position: absolute !important;
+  top: -9rem;
+  left: 0;
+  font-size: 35px !important;
+}
+.fw-container {
+  padding: 100px 0 !important;
+}
+.cardForSellRent {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  background: #f7f7f7;
+  padding: 20px;
+  border-radius: 5px;
+}
+.fw-container-two {
+  padding-top: 20px !important  ;
+}
+.widget_rental_search .advance_search_query.booking-form .form-group input {
+  outline: none !important;
+}
